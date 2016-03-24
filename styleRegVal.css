@@ -1,0 +1,47 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:65px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+	
+}
+#section {
+	background-color:#eeeeee;
+    float:right;
+    padding:10px; 
+	font-size: 130%;
+	border: 3px #eeeeee;
+	border-radius: 6px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:right;
+    padding:5px; 
+	}
+#nav a{
+	font-size: 130%;
+	color: black;
+	text-decoration: none;
+}
+
+#nav a:hover {
+    color: orange;
+}
+#space {
+background-color: white;
+
+height: 150px;
+}
+#section input {
+width: 300px;
+}

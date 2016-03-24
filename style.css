@@ -1,0 +1,38 @@
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:65px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+	
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:right;
+    padding:5px; 
+}
+#nav a{
+	font-size: 170%;
+	color: black;
+	text-decoration: none;
+}
+
+#nav a:hover {
+    color: orange;
+	
+}
